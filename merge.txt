@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hej jag heter Reza" 
+=======
+"Hej jag heter Reza"
+>>>>>>> new_branch_to_merge_later
